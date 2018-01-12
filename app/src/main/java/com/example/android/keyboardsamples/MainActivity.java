@@ -27,7 +27,7 @@ import android.widget.Toast;
  * This app is designed to show different keyboards when entering text.
  */
 public class MainActivity extends AppCompatActivity {
-
+    //
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
